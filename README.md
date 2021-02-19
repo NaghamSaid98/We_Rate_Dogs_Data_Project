@@ -1,4 +1,4 @@
-# wrangle-and-analyze-data-udacity-project
+# We-Rate-Dogs-data- wrangling, Analysis and visualization
 
 ### Introduction
 
